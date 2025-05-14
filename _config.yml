@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: HA1215 # the main title
+title: HA1215 Security Blog # the main title
 
-tagline: HA1215 Security Blog # it will display as the subtitle
+tagline:  security Defense, Malware Analysis, Red Teaming, and Threat Hunting. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A technical security blog covering red teaming, threat detection, and cybersecurity tools.
