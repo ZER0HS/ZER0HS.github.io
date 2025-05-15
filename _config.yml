@@ -16,7 +16,7 @@ timezone:
 
 title: HA1215 Security Blog # the main title
 
-tagline:  security Defense, Malware Analysis, Red Teaming, and Threat Hunting. # it will display as the subtitle
+tagline:  Security Defense, Malware Analysis, Red Teaming, and Threat Hunting. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A technical security blog covering red teaming, threat detection, and cybersecurity tools.
@@ -39,8 +39,6 @@ social:
     - https://www.linkedin.com/in/hassan-alshehri- # change to your Twitter homepage
     - https://github.com/ha1215 # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
