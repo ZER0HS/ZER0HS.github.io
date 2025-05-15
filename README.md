@@ -15,4 +15,4 @@ This blog is automatically built and deployed via GitHub Pages.
 
 Author
 HA1215
-[GitHub](https://github.com/ha1215) | [ LinkedIn](https://www.linkedin.com/in/hassan-alshehri-/)
+[GitHub](https://github.com/ha1215) | [ LinkedIn](https://www.linkedin.com/in/hassan-alshehri-)
